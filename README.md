@@ -56,7 +56,7 @@ Success criteria:
 
 Bonus:
 - Use the rest of the reserved chaos book IDs (99, 994-999) to test your error
-  handling against more failure scenarios (timeouts, malformed responses, etc.).
+  handling against more failure scenarios (timeouts, malformed responses, etc.). -> done
 
 ## Practical Task 2: WebClient
 
@@ -82,7 +82,7 @@ Success criteria:
 
 Bonus:
 - Use the rest of the reserved chaos book IDs (99, 994-999) to test resilience
-  (retries, timeouts, error mapping) in a non-blocking way.
+  (retries, timeouts, error mapping) in a non-blocking way. -> done
 
 ## Project Structure
 
