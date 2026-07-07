@@ -26,6 +26,7 @@ public class BookRestClientImpl implements BookRestClient {
 
         this.restClient = builder
                 .baseUrl(properties.baseUrl())
+                .requestFactory(requestFactory)
                 .build();
 
 
